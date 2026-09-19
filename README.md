@@ -15,8 +15,7 @@
 
 ## 📌 Featured Projects
 * 🖼️ **[MultiView](https://github.com/WoNy-99/MultiView)** — Python desktop viewer with PyQt, Playwright, virtualized image loading, and non-blocking downloads.
-* 🍽️ **[ML Recommendation](https://github.com/WoNy-99/ML-recommendation)** — TF-IDF and hybrid restaurant recommendation using Yelp and OpenTable data.
-* 🎓 **Academic Team Projects (Private)** — Study Mate, Pick & Tell, Fine-Grained Image Classification, BattleFit, Top-K & Selection, and Malro.
+* 🎓 **Academic Team Projects (Private)** — Study Mate, Pick & Tell, Fine-Grained Image Classification, BattleFit, Top-K & Selection, ML Recommendation, and Malro
 
 <br>
 
