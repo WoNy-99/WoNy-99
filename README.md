@@ -14,7 +14,7 @@
 <br>
 
 ## 📌 Featured Projects
-* 🎓 **Academic Team Projects (Private)** — Study Mate, Pick & Tell, Fine-Grained Image Classification, BattleFit, Top-K & Selection, ML Recommendation, and Malro
+* 🎓 **Academic Team Projects ** — Study Mate, Pick & Tell, Fine-Grained Image Classification, BattleFit, Top-K & Selection, ML Recommendation, and Malro
 
 <br>
 
