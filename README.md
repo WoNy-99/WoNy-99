@@ -8,7 +8,6 @@
 * 🧩 My projects span the full development flow—from problem definition and system design to model experiments, backend APIs, mobile integration, and documentation.
 * 👥 I led the planning and architecture of **Study Mate** and **Malro**, and worked on AI API integration, interactive storytelling, voice cloning, and safeguard filtering for **Pick & Tell**.
 * 📊 My portfolio includes a **TF-IDF content-based recommendation pipeline** and a **ResNet18 / ConvNeXt** fine-grained image classification study with Grad-CAM analysis.
-* 💻 I developed **[MultiView](https://github.com/WoNy-99/MultiView)**, a high-performance Python webtoon/image viewer with virtualized rendering and background downloading.
 * 🔐 I value clear documentation, explainable results, and secure handling of API keys and user data.
 
 <br>
