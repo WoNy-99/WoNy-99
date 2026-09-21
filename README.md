@@ -14,7 +14,6 @@
 <br>
 
 ## 📌 Featured Projects
-* 🖼️ **[MultiView](https://github.com/WoNy-99/MultiView)** — Python desktop viewer with PyQt, Playwright, virtualized image loading, and non-blocking downloads.
 * 🎓 **Academic Team Projects (Private)** — Study Mate, Pick & Tell, Fine-Grained Image Classification, BattleFit, Top-K & Selection, ML Recommendation, and Malro
 
 <br>
