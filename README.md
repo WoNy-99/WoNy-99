@@ -6,7 +6,7 @@
 * 🐍 **My primary programming language is Python.** I enjoy using it to solve complex problems, optimize data pipelines, and build useful applications.
 * 🤖 I am exploring **Computer Vision, Recommendation Systems, Generative AI, and Physical AI** to grow as an AI Software Developer who can connect intelligent models with real user experiences.
 * 🧩 My projects span the full development flow—from problem definition and system design to model experiments, backend APIs, mobile integration, and documentation.
-* 👥 I led the planning and architecture of **Study Mate** and **Malro**, and worked on AI API integration, interactive storytelling, voice cloning, and safeguard filtering for **Pick & Tell**.
+* 👥 I led the planning and architecture of **Study Mate** and **Malro**, and worked on AI API integration and voice cloning for **Pick & Tell**. I proposed and worked on choice-based story branching, but it was not completed by the project deadline; integrated safeguard filtering also remained incomplete.
 * 📊 My portfolio includes a **TF-IDF content-based recommendation pipeline** and a **ResNet18 / ConvNeXt** fine-grained image classification study with Grad-CAM analysis.
 * 🔐 I value clear documentation, explainable results, and secure handling of API keys and user data.
 
